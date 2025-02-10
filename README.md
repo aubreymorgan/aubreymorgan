@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi! I'm Aubrey
 
-<!--
-**aubreymorgan/aubreymorgan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4>👩🏼‍🎓 I am a senior computer science undergrad student on track to graduate in December of 2025</h4>
 
-Here are some ideas to get you started:
+<h4>👩🏼‍💻 Right now I am working on:</h4>
+<ul>
+  <li>🌞 An educational mini-game designed to teach Kenyan scool children about solar power (using LÖVE)</li>
+  <li>⛈ A weather app (using C#)</li>
+</ul>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details open>
+  <summary>My top Languages</summary>
+  
+  | Rank | Languages |
+  |-----:|-----------|
+  |     1| C++       |
+  |     2| Java      |
+  |     3| SQL       |
+  
+</details>
