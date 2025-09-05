@@ -21,6 +21,8 @@ I’m a Computer Science student and full-stack developer interested in **data a
 - 🐾 Love my dog **Toby** and my cat **Keith**
 - 🎮 Favorite game: **Stardew Valley**
 
+---
+
 ## 📞 Socials
 - Instagram
 - Linkedin
