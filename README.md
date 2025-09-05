@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Aubrey Morgan
 I am a senior computer science undergrad student on track to graduate in December 2025. When I'm not debugging code or attending lectures, you'll find me exploring hiking trails, hunting for vintage treasures at local thrift shops, or diving into a good book. Currently building my portfolio one commit at a time while running my own business. 
+
 ---
 
 ## 🔧 Tech Stack
