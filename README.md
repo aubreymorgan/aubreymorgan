@@ -20,13 +20,6 @@ I am a senior computer science undergrad student on track to graduate in Decembe
 
 ---
 
-## 📈 GitHub Stats
-![Aubrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=aubreymorgan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aubreymorgan&layout=compact&theme=radical)
-
----
-
 ## 📓 About Me
 - 🎓 Pursuing a **Bachelor of Science in Computer Science**
 - 💻 Passionate about **software development** and **data analysis**
